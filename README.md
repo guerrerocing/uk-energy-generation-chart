@@ -34,16 +34,16 @@ Follow these steps to set up and run your frontend project:
 
 ## Usage
 
-2. Run Tests
-
-   ```bash
-   npm run dev
-   ```
-
-3. Start the project:
+1. Run Tests
 
    ```bash
    npm test
    ```
 
-4. Access your browser `http://localhost:5173`
+2. Start the project:
+
+   ```bash
+   npm run dev
+   ```
+
+3. Access your browser `http://localhost:5173`
